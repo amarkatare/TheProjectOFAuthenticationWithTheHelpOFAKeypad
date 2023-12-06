@@ -1,8 +1,8 @@
 // // The Project OF Authentication With The Help OF A Keypad .
 
-// The Main Code OF The Project OF Authentication With The Help OF A Keypad . .C
-
 // In this program, We want to Show Authentication with The Help of a Keypad . If our Key Presses Equal, We put it Equal, and by Pressing The Number a Hundred (100), the LED will turn on and Display a Message with The Text " Authentication has been Successfully Completed ! ". Otherwise, If Pressed and The Number is not a Hundred (100), The LED will turn off and Display a Message with The Text " Authentication was not Successfully Completed ! " .
+
+// The Main Code OF The Project OF Authentication With The Help OF A Keypad . .INO .
 
 
 
